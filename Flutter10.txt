@@ -1,0 +1,15 @@
+Commands to execute 10th exp 
+
+flutter doctor
+
+flutter devices
+
+flutter doctor --android-licenses
+
+flutter create android_app
+
+cd android_app
+
+flutter run
+
+flutter build apk
